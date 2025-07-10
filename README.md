@@ -48,7 +48,9 @@ To explore the dashboard:
 
 ## 📈 Screenshots
 
-*You can add screenshots here once you upload visuals to GitHub.*
+![image alt](https://github.com/elgaurav/HR-Analytics-Dashboard/blob/104105c2c4d359235941f1b73a08a564c3ee79ca/dashboards/Employee%20Data%20Overview.png)
+![image alt](https://github.com/elgaurav/HR-Analytics-Dashboard/blob/104105c2c4d359235941f1b73a08a564c3ee79ca/dashboards/Recruitment%20%26%20Hiring%20Analysis.png)
+![image alt](https://github.com/elgaurav/HR-Analytics-Dashboard/blob/104105c2c4d359235941f1b73a08a564c3ee79ca/dashboards/Employee%20Demographics%20%26%20Engagement.png)
 
 ---
 
